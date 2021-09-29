@@ -1,1 +1,2 @@
 i'm chinese
+add some info in file3
